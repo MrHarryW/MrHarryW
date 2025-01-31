@@ -26,14 +26,14 @@
     <tr>
       <!-- <td>
         <div align="center">
-          <a href="https://github.com/Thinkright20"><img src="https://github.com/Thinkright20.png" alt="@Thinkright20" width="52" /></a>
+          <a href="https://github.com/TyrannoSeahorseRex"><img src="https://github.com/TyrannoSeahorseRex.png" alt="@TyrannoSeahorseRex" width="52" /></a>
           <br />
-          <a align="center" href="https://github.com/thinkright20"><b>Thinkright20</b></a>
+          <a align="center" href="https://github.com/TyrannoSeahorseRex"><b>TyrannoSeahorseRex</b></a>
         </b>
       </td> -->
       <!-- Profile Views -->
       <td>
-         <a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=thinkright20&style=for-the-badge&color=brightgreen"> </a>
+         <a href="https://github.com/TyrannoSeahorseRex"> <img src="https://komarev.com/ghpvc/?username=TyrannoSeahorseRex&style=for-the-badge&color=brightgreen"> </a>
       </td>
     </tr>
   </table>
