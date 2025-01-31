@@ -10,7 +10,9 @@
 - ⚡ Fun fact: I struggle to concentrate on everything but coding.
 
 250+
-
+         <a href="https://github.com/TyrannoSeahorseRex?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TyrannoSeahorseRex?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
+           <a href="https://github.com/TyrannoSeahorseRex"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/TyrannoSeahorseRex?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 
 
 ## Statistics
@@ -23,27 +25,6 @@
     <tr>
       <td>
          <a href="https://github.com/TyrannoSeahorseRex"> <img src="https://komarev.com/ghpvc/?username=TyrannoSeahorseRex&style=for-the-badge&color=brightgreen"> </a>
-      </td>
-    </tr>
-  </table>
-  <table>
-    <tr>
-      <th>Total Count</th>
-    </tr>
-    <tr>
-      <td>
-         <a href="https://github.com/TyrannoSeahorseRex?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TyrannoSeahorseRex?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
-      </td>
-    </tr>
-  </table>
-  <table>
-    <tr>
-      <th>Total Count</th>
-    </tr>
-    <tr>
-      <td>
-           <a href="https://github.com/TyrannoSeahorseRex"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/TyrannoSeahorseRex?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
       </td>
     </tr>
   </table>
