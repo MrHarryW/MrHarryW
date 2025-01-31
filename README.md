@@ -20,17 +20,9 @@
 
   <table>
     <tr>
-      <!-- <th>Profile Views</th> -->
-      <th>Total Count</th>
+      <th>Statistics</th>
     </tr>
     <tr>
-      <td>
-        <div align="center">
-          <a href="https://github.com/TyrannoSeahorseRex"><img src="https://github.com/TyrannoSeahorseRex.png" alt="@TyrannoSeahorseRex" width="52" /></a>
-          <br />
-          <a align="center" href="https://github.com/TyrannoSeahorseRex"><b>TyrannoSeahorseRex</b></a>
-        </b>
-      </td>
       <td>
          <a href="https://github.com/TyrannoSeahorseRex"> <img src="https://komarev.com/ghpvc/?username=TyrannoSeahorseRex&style=for-the-badge&color=brightgreen"> </a>
       </td>
