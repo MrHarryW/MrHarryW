@@ -24,14 +24,13 @@
       <th>Total Count</th>
     </tr>
     <tr>
-      <!-- <td>
+      <td>
         <div align="center">
           <a href="https://github.com/TyrannoSeahorseRex"><img src="https://github.com/TyrannoSeahorseRex.png" alt="@TyrannoSeahorseRex" width="52" /></a>
           <br />
           <a align="center" href="https://github.com/TyrannoSeahorseRex"><b>TyrannoSeahorseRex</b></a>
         </b>
-      </td> -->
-      <!-- Profile Views -->
+      </td>
       <td>
          <a href="https://github.com/TyrannoSeahorseRex"> <img src="https://komarev.com/ghpvc/?username=TyrannoSeahorseRex&style=for-the-badge&color=brightgreen"> </a>
       </td>
