@@ -9,7 +9,7 @@
 - 😄 Pronouns: I don't believe in pronouns, the way they are currently used. I was born a male.
 - ⚡ Fun fact: I struggle to concentrate on everything but coding.
 
-250+
+
            
 
 
