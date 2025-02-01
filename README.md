@@ -1,8 +1,8 @@
 <p align = "center">
 </p>
 <p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>#
 	<a href="https://github.com/MrHarryW"> <img src="https://komarev.com/ghpvc/?username=MrHarryW&style=plastic&color=orange"> </a>
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
 <!--- stats & Trophy (start) -->
