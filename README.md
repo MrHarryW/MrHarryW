@@ -1,4 +1,4 @@
-<p align="center">![https://github.com/MrHarryW](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)</p>p>
+<p align="center">![https://github.com/MrHarryW](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)</p>
 
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
