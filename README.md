@@ -48,7 +48,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord,github,html,js,py,vscode,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=discord,github,html,js,py,vscode,&perline=14" />
   </a>
 </p>
 
@@ -60,7 +60,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,java,css,discord,github,html,js,py,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=aws,java,css,discord,github,html,js,py,&perline=14" />
   </a>
 </p>
 
