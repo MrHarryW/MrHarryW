@@ -16,7 +16,7 @@
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MrHarryW&theme=dark&hide_border=false" />
   <br></br>
-  [![Harry's GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrHarryW&theme=github-compact)](https://github.com/MrHarryW/github-readme-activity-graph)
+  [![Harry's GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrHarryW&theme=dracula)](https://github.com/MrHarryW/github-readme-activity-graph)
 </td>
 
 <td width="50%" align="center">
