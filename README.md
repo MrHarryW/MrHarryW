@@ -5,6 +5,12 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Staistics📊</h2></summary>
+  </ul>
+</div>
+
 <!--- stats & Trophy (start) --> 
 <p align="center">
   <!--- stats (start) -->
