@@ -7,7 +7,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Staistics📊</h2></summary>
+    <summary><h2 style="display: inline-block">Statistics📊</h2></summary>
   </ul>
 </div>
 
