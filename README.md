@@ -1,7 +1,7 @@
 <p align = "center">
 	<a href="https://github.com/MrHarryW"> <img src="https://komarev.com/ghpvc/?username=MrHarryW&style=plastic&color=orange"> </a>
 </p> 
-<p align = "center">
+<p align = "center"> 
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
