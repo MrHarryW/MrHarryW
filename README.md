@@ -9,7 +9,7 @@
   <ul align="center"> 
     <summary><h2 style="display: inline-block">Statistics📊</h2></summary>
   </ul>
-</div>
+</div> 
 
 <!--- stats & Trophy (start) --> 
 <p align="center">
