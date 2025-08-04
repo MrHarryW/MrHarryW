@@ -1,13 +1,9 @@
-<p align = "center">
-	<a href="https://github.com/MrHarryW"> <img src="https://komarev.com/ghpvc/?username=MrHarryW&style=plastic&color=orange"> </a>
-</p> 
- 
 <!-- Animated wave -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1 align="center">
   <a href="https://mrharryw.dev" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1E90FF&center=true&vCenter=true&repeat=true&width=600&lines=Greetings+coders+!+I'm+Harry" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1E90FF&center=true&vCenter=true&repeat=true&width=600&lines=Greetings+coders!+I'm+Harry" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -16,6 +12,10 @@
     <img src="/HARRY.png" alt="MrHarryW Banner" width="100%" />
   </a>
 </p>
+
+<p align = "left">
+	<a href="https://github.com/MrHarryW"> <img src="https://komarev.com/ghpvc/?username=MrHarryW&style=plastic&color=orange"> </a>
+</p> 
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
