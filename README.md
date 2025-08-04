@@ -2,74 +2,60 @@
 	<a href="https://github.com/MrHarryW"> <img src="https://komarev.com/ghpvc/?username=MrHarryW&style=plastic&color=orange"> </a>
 </p> 
  
-<div id="user-content-toc"> 
-  <ul align="center"> 
-    <summary><h2 style="display: inline-block">Statistics📊</h2></summary>
-  </ul>
-</div> 
+<!-- Animated wave -->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-<!--- stats & Trophy (start) --> 
+<h1 align="center">
+  <a href="https://mrharryw.dev" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1E90FF&center=true&vCenter=true&repeat=true&width=600&lines=Greetings+coders+!+I'm+Harry" alt="Typing SVG" />
+  </a>
+</h1>
+
 <p align="center">
-  <!--- stats (start) -->
-<table align="center"> 
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=MrHarryW&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MrHarryW&theme=dark&hide_border=false" />
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MrHarryW&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/MrHarryW" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=MrHarryW&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,github,html,js,py,vscode&perline=14" />
+  <a href="https://mrharryw.dev">
+    <img src="/assets/banner.png" alt="MrHarryW Banner" width="100%" />
   </a>
 </p>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Am Learning👨🏻‍💻</h2></summary>
-  </ul>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
-<!--tech stack icons-->
+
+<h3 align="center">🌍 A Developer, Dreamer & Digital Explorer from the UK</h3>
+
+---
+
+### 👨‍💻 About Me
+
+- 🛠️ I’m currently building **Ticket Time**, **Coding Commons** community, and **more**.
+- 🌱 Learning **Vue, Next.js, and advanced strategies**.
+- 📫 Reach me at: `no email yet`
+- 🌍 Portfolio: [mrharryw.dev](https://mrharryw.dev)
+- 🐦 Twitter/X: [@Mr_HarryW](https://x.com/Mr_HarryW)
+
+---
+
+### 🧠 Tech Stack
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,java,css,discord,github,html,js,py&perline=14" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,vue,vite,heidisql,github,git,tailwind,daisyui,vscode" />
 </p>
 
-## Top Respositorys
-  <p align="left">
-     <a href="https://github.com/MrHarryW/FactFileGen"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MrHarryW&repo=FactFileGen&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/MrHarryW/Carry-Fivem"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MrHarryW&repo=Carry-Fivem&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-           <a href="https://github.com/MrHarryW/Binary-Translator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MrHarryW&repo=Binary-Translator&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  </p>
+---
+
+### ⌨️ Projects You Should Check Out
+
+- 🎟️ **Ticket Time** – [Bot + Docs](https://mrharryw.github.io/tickettime.html)
+
+---
+
+### 📊 Weekly Dev Breakdown
+
+```txt
+Total Time: 36 hrs 22 mins
+
+JavaScript   12 hrs 31 mins  █████████████▍        34.5%
+Python       9 hrs 10 mins   █████████▏             25.3%
+Vue          6 hrs 43 mins   █████▌                 18.4%
+CSS/HTML     4 hrs 00 mins   ██▊                    11.0%
+Other        3 hrs 58 mins   ██▊                    10.8%
