@@ -46,16 +46,3 @@
 ### ⌨️ Projects You Should Check Out
 
 - 🎟️ **Ticket Time** – [Bot + Docs](https://mrharryw.github.io/tickettime.html)
-
----
-
-### 📊 Weekly Dev Breakdown
-
-```txt
-Total Time: 36 hrs 22 mins
-
-JavaScript   12 hrs 31 mins  █████████████▍        34.5%
-Python       9 hrs 10 mins   █████████▏             25.3%
-Vue          6 hrs 43 mins   █████▌                 18.4%
-CSS/HTML     4 hrs 00 mins   ██▊                    11.0%
-Other        3 hrs 58 mins   ██▊                    10.8%
