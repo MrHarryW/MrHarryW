@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://mrharryw.dev">
-    <img src="/assets/banner.png" alt="MrHarryW Banner" width="100%" />
+    <img src="/HARRY.png" alt="MrHarryW Banner" width="100%" />
   </a>
 </p>
 
